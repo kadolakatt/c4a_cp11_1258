@@ -1,0 +1,31 @@
+{
+  "name": "c4a_cp11_1258",
+  "version": "1.0.0",
+  "description": "Componente practico 11 Ciclo 4a NRC 1258",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadolakatt/c4a_cp11_1258.git"
+  },
+  "keywords": [
+    "componente",
+    "practico",
+    "11",
+    "misiontic",
+    "2022",
+    "ciclo4a",
+    "4a"
+  ],
+  "author": "MisionTIC 2022",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadolakatt/c4a_cp11_1258/issues"
+  },
+  "homepage": "https://github.com/kadolakatt/c4a_cp11_1258#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
